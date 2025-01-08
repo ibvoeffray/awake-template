@@ -8,10 +8,10 @@
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>Villa Riccio Blanco</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Edit this page into fit your needs.
             </strong>
           </p>
           <p>
